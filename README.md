@@ -9,3 +9,4 @@ Ingredients are being tested, flavors are evolving,
 and the final dish isn't ready to be served just yet.
 
 Stay tuned — it's going to be delicious. 👨‍🍳👩‍🍳
+![Status](https://img.shields.io/badge/status-simmering-orange)
